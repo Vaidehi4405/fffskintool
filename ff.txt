@@ -1,4 +1,5 @@
-"appOpenVisible": false,
+ {
+ "appOpenVisible": false,
   "backPriority": "facebook",
   "bannerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH__kzhn1GYGq4sNpqSLt2fGKW1XkMWFw5iUgogqEI7G-tPfNFwMUWs2pv7zN0kDbIhck&usqp=CAU",
   "bannerUrl": "https://play25.qureka.com/intro/question",
@@ -51,3 +52,4 @@
   "showAd": true,
   "toBeClicked": 1,
   "totalIntro": 5
+  }
