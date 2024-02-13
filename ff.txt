@@ -50,7 +50,7 @@
   "nativeUrl": "https://play25.qureka.com/intro/question",
   "priority": "facebook",
 "moreApp":"",
-"privacyPolicy":https://www.termsfeed.com/live/2a1e9cb5-4d68-443f-b086-9a833a174781,
+"privacyPolicy":"https://www.termsfeed.com/live/2a1e9cb5-4d68-443f-b086-9a833a174781",
   "showAd": true,
   "toBeClicked": 1,
   "totalIntro": 5
